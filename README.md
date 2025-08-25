@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @crahman-dev
-
-<div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=[YourUsername]&color=00cf92&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/[YourUsername]?style=social)
-  
-</div>
-
 ## 🚀 About Me
 
 **Full-Stack Developer** with **2 years of hands-on experience** specializing in modern web technologies. I build scalable applications using both **VILT (Vue, Inertia, Laravel, Tailwind)** and **MERN (MongoDB, Express, React, Node.js)** stacks. Passionate about clean code, performance optimization, and creating seamless user experiences.
