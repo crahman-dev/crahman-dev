@@ -33,34 +33,6 @@
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-username])
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[your-username])
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 🎨 Fun Facts
-
-<details>
-<summary><b>Click to see fun facts about me! 🎯</b></summary>
-
-- 🔢 **Lines of code written:** 50k+ (and counting!)
-- ☕ **Coffee consumed while coding:** 1000+ cups
-- 🌙 **Preferred coding time:** Night owl (2 AM - 6 AM)
-- 🎮 **Favorite break activity:** Chess & Strategy games
-- 📚 **Currently reading:** "Clean Code" by Robert Martin
-
-</details>
-
----
-
 <div align="center">
   
 ### 🌟 **"Code is like humor. When you have to explain it, it's bad."** 🌟
