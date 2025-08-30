@@ -25,22 +25,6 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
----
-
-## 🔥 Featured Projects
-
-### MERN Stack Projects
-- **🛒 E-Commerce Platform** - Full-stack online store with Stripe integration
-- **📱 Task Management App** - Real-time collaboration with Socket.io
-- **🎬 Movie Review Platform** - RESTful API with MongoDB aggregation
-
-### VILT Stack Projects
-- **🏢 Admin Dashboard** - Laravel backend with Vue.js SPA using Inertia
-- **📊 Analytics Platform** - Real-time data visualization with Chart.js
-- **🛍️ Inventory Management** - Multi-tenant SaaS application
-
----
-
 ## 🎯 Current Focus
 
 - 🎓 **Learning:** Next.js 14, TypeScript, Docker
